@@ -1,0 +1,5 @@
+.idea
+.json
+.pyc
+.doc
+local_settings.py
